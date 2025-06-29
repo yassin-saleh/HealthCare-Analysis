@@ -13,7 +13,7 @@ This project applies professional EDA techniques on a dataset related to **cance
 ## 📁 Dataset Information
 
 - **Filename**: `_cancer_dataset_uae.csv`
-- **Description**: Contains anonymized records possibly including age, gender, tumor size, diagnostic results, and more.
+- **Description**: Contains anonymized records possibly including age, gender, Cancer_Type, diagnostic results, and more.
 - **Source**: Local file (must be provided in the project directory)
 
 ---
